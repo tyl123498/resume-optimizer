@@ -175,3 +175,10 @@ resume-optimizer/
 - 仅限个人学习与求职辅助，不构成任何录用承诺。
 - 所有数据默认存储在本地，不会主动上传至第三方云端。
 - 请遵守目标网站的 robots.txt 协议。
+
+## 🚀 Railway 一键部署
+### 后端 FastAPI
+[![Deploy Backend on Railway](https://railway.app/button.svg)](https://railway.app/new/template?repo=https://github.com/tyl123498/resume-optimizer&branch=master&rootDir=backend)
+
+### 前端 Next.js
+[![Deploy Frontend on Railway](https://railway.app/button.svg)](https://railway.app/new/template?repo=https://github.com/tyl123498/resume-optimizer&branch=master&rootDir=frontend)

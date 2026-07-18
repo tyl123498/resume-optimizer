@@ -1,0 +1,14 @@
+{
+  "$schema": "https://railway.app/railway.schema.json",
+  "build": {
+    "builder": "DOCKERFILE",
+    "dockerfilePath": "Dockerfile"
+  },
+  "deploy": {
+    "environment": {
+      "LLM_PROVIDER": "openai",
+      "OPENAI_BASE_URL": "https://api.deepseek.com/v1",
+      "OPENAI_MODEL": "deepseek-chat"
+    }
+  }
+}

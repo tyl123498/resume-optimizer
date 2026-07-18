@@ -1,0 +1,14 @@
+{
+  "$schema": "https://railway.app/railway.schema.json",
+  "build": {
+    "builder": "DOCKERFILE",
+    "dockerfilePath": "Dockerfile"
+  },
+  "deploy": {
+    "environment": {
+      "NEXTAUTH_SECRET": "",
+      "NEXTAUTH_URL": "",
+      "NEXT_PUBLIC_API_URL": ""
+    }
+  }
+}
