@@ -1,0 +1,36 @@
+﻿# Dependencies
+node_modules/
+.pnpm-store/
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.env
+
+# Next.js
+.next/
+
+# Database
+*.db
+*.db-journal
+*.db-wal
+*.db-shm
+
+# ChromaDB
+chroma_data/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Backups
+*.bak
+
+# Environment files
+.env.local
+.env

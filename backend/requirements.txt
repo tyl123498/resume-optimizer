@@ -1,0 +1,11 @@
+﻿fastapi
+uvicorn[standard]
+langchain
+langchain-community
+langchain-chroma
+chromadb
+langchain-ollama
+langchain-openai
+pydantic
+python-multipart
+httpx
