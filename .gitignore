@@ -34,3 +34,16 @@ Thumbs.db
 # Environment files
 .env.local
 .env
+
+# ===== Test & Log Files =====
+backend/data/*.log
+backend/test_*.py
+backend/data/orders.db
+backend/data/orders.db-wal
+backend/data/orders.db-shm
+
+# ===== IDE =====
+.vscode/
+.idea/
+__pycache__/
+*.pyc
